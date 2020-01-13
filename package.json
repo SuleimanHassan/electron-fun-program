@@ -1,0 +1,11 @@
+{
+  "name": "electron-fun-program",
+  "version": "0.0.1",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^7.1.8"
+  }
+}
