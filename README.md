@@ -1,1 +1,1 @@
-# fun-electron-program
+# Electron Fun Program
